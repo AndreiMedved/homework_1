@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Task_1 По двум заданным числам проверять является ли первое квадратом второго
+
 Console.WriteLine("Hello, World!");
